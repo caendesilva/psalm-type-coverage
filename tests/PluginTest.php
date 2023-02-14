@@ -1,9 +1,9 @@
 <?php
 
-namespace Weirdan\PsalmPluginSkeleton\Tests;
+namespace Desilva\PsalmTypeCoverage\Tests;
 
 use SimpleXMLElement;
-use Weirdan\PsalmPluginSkeleton\Plugin;
+use Desilva\PsalmTypeCoverage\Plugin;
 use PHPUnit\Framework\TestCase;
 use Prophecy\PhpUnit\ProphecyTrait;
 use Prophecy\Prophecy\ObjectProphecy;

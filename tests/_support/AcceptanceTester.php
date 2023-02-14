@@ -1,6 +1,6 @@
 <?php
 
-namespace Weirdan\PsalmPluginSkeleton\Tests;
+namespace Desilva\PsalmTypeCoverage\Tests;
 
 /**
  * Inherited Methods

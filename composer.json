@@ -1,5 +1,5 @@
 {
-    "name": "weirdan/psalm-plugin-skeleton",
+    "name": "desilva/psalm-type-coverage",
     "description": "Template to create psalm-plugin projects from",
     "type": "psalm-plugin",
     "license": "MIT",
@@ -22,19 +22,19 @@
     },
     "extra": {
         "psalm": {
-            "pluginClass": "Weirdan\\PsalmPluginSkeleton\\Plugin"
+            "pluginClass": "Desilva\\PsalmTypeCoverage\\Plugin"
         }
     },
     "autoload": {
         "psr-4": {
-            "Weirdan\\PsalmPluginSkeleton\\": [
+            "Desilva\\PsalmTypeCoverage\\": [
                 "."
             ]
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Weirdan\\PsalmPluginSkeleton\\Tests\\": [
+            "Desilva\\PsalmTypeCoverage\\Tests\\": [
                 "tests/_support",
                 "tests"
             ]

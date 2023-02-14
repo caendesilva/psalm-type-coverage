@@ -1,6 +1,6 @@
 <?php
 
-namespace Weirdan\PsalmPluginSkeleton;
+namespace Desilva\PsalmTypeCoverage;
 
 use SimpleXMLElement;
 use Psalm\Plugin\PluginEntryPointInterface;
