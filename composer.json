@@ -1,12 +1,12 @@
 {
     "name": "desilva/psalm-type-coverage",
-    "description": "Template to create psalm-plugin projects from",
+    "description": "Experimental Psalm plugin to generate type coverage reports",
     "type": "psalm-plugin",
     "license": "MIT",
     "authors": [
         {
-            "name": "Bruce Weirdan",
-            "email": "weirdan@gmail.com"
+            "name": "Caen De Silva",
+            "email": "caen@desilva.se"
         }
     ],
     "require": {
